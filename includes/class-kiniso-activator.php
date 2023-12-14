@@ -3,9 +3,9 @@
 /**
  * Handles All actions related to the plugin activation.
  *
+ * @package Kiniso
  * @since 1.0
  *
- * Class Kiniso_Activator
  */
 class Kiniso_Activator {
 

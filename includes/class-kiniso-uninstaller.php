@@ -4,9 +4,9 @@
  * Fired during plugin Uninstall
  * Handles All actions related to the plugin deletion after deactivation.
  *
+ * @package Kiniso
  * @since 1.0
  *
- * @package Kiniso
  */
 class Kiniso_Uninstaller {
 

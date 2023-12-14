@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Extends WP_REST_Controller to create a custom REST API endpoint.
+ *
+ * @package Kiniso
+ * @since 1.0
+ *
+ */
 class Kiniso_Controller extends WP_REST_Controller {
 
 	public function register_routes() {

@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Handles All actions, functions related to the plugin.
+ *
+ * @package Kiniso
+ * @since 1.0
+ *
+ */
 class Kiniso {
 
 	public function init() {

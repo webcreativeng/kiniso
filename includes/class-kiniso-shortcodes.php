@@ -2,6 +2,10 @@
 
 /**
  * Handles All Shortcodes related to the plugin.
+ *
+ * @package Kiniso
+ * @since 1.0
+ *
  */
 class Kiniso_Shortcodes {
 

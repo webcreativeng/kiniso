@@ -32,5 +32,3 @@ Use the shortcode `[kiniso_form]` to display the form to insert records to the d
 == Changelog ==
 = 1.0.0 =
 * Initial release
-
-
